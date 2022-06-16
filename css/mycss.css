@@ -1,0 +1,221 @@
+.headerbig{
+
+}
+.container{
+    
+}
+.row{
+
+}
+.headerbig_img{
+
+}
+.img{
+    margin-top: 0px;
+}
+.headerbig_cuahang{
+  
+}
+.ten{
+    font-size: 32px;
+    color: blue;
+}
+.thongtin{
+    font-style: italic;
+    color: #ddd;
+}
+.shop{
+    margin-top: 80px;
+    color: #ddd;
+}
+.btn{
+    padding: 5px;
+    font-size: 15px;
+    color: red;
+    float: right;
+}
+
+.home {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    width: 100%;
+    height: 46px;
+    padding-left: 10px;
+    background-color: rgb(59, 52, 52);
+}
+
+.home a {
+    line-height: 46px;
+    text-decoration: none;
+    padding: 0 5px;
+}
+
+.home1 {
+    font-size: 20px;
+    color: white;
+}
+
+.dp {
+    font-size: 15px;
+    color: rgb(207, 198, 198);
+}
+
+.mobi {
+    font-size: 15px;
+    color: rgb(165, 156, 156);
+}
+
+.tivi {
+    font-size: 15px;
+    color: rgb(165, 156, 156);
+
+}
+
+.food {
+    font-size: 15px;
+    color: rgb(165, 156, 156);
+
+}
+
+.contact {
+    font-size: 15px;
+    color: rgb(165, 156, 156);
+
+}
+
+.menu {
+    height: 40px;
+}
+.search1{
+    float: right;
+    padding-right: 20px;
+}
+
+.search2 {
+    padding-top: px;
+   line-height: 26px;
+    border-radius: 5px;
+    background-color: rgb(59, 52, 52);
+    color: green;
+    border: 1px solid green;
+    cursor: pointer;
+}
+
+.modelsearch {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    width: 200px;
+    height: 23px;
+    border-radius: 5px;
+    padding-left: 10px;
+}
+#content{
+
+}
+.sdt{
+    color: rgb(67, 67, 119);
+    cursor: pointer;
+}
+.chude{
+   background-color: aqua;
+   padding: 5px;
+
+}
+.danhmuc{
+    border-bottom: 1px solid #ddd;
+    padding: 5px;
+}
+.col-xl-2{
+    padding-top: 60px;
+}
+
+.imgchung{
+    width: 100%;
+}
+.tensp{
+    color: green;
+    text-align: center;
+}
+.gia{
+    color: red;
+    text-align: center;
+}
+.footer{
+    text-align: center;
+    line-height: 36px;
+    background-color: rgb(53, 46, 46);
+    
+}
+.footer a{
+    color: white;
+}
+.but{
+    margin-top: 10px;
+    margin-left: 50px;
+}
+.dongy{
+    color: white;
+    background-color: forestgreen;
+    border-radius: 5px;
+    border-color: forestgreen;
+}
+.boqua{
+    color: white;
+    background-color: red;
+    border-radius: 5px;
+    border-color: red;
+}
+.bodylh{
+    box-sizing: border-box;
+    border: 1px solid red;
+    margin-top: 10px;
+    text-align: center;
+    /* text-decoration: none; */
+}
+.lh{
+    text-align: center;
+    padding: 5px;
+    font-size: 16px;
+    text-transform: uppercase;
+    color: red;
+    font-weight: bold;
+}
+.map{
+    float: right;
+}
+.hoten{
+    font-weight: bold;
+}
+.nhaphoten{
+    width: 100%;
+}
+.nhapnoidung{
+    width: 100%;
+    height: 250px;
+}
+.ghcb{
+    text-align: center;
+    border: 1px solid gray;
+    background-color: rgb(58, 50, 50);
+    padding: 5px;
+    margin: 5px 0px;
+}
+.gh{
+    color: white;
+    text-transform: uppercase;
+    font-size: 20px;
+    
+}
+.giaohang{
+    color: rgb(58, 156, 124);
+    text-transform: uppercase;
+    font-weight: 600;
+}
+.lich{
+    float: right;
+}
+.imggh{
+    width: 50%;
+}
+.trash{
+   
+    color: red;
+}
